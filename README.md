@@ -1,4 +1,7 @@
+![offer![offercalc1](https://github.com/aswanthkumarp/offercalculation/assets/122904133/a56d54c2-46aa-49d7-83de-0d3e929661cb)
+calc2](https://github.com/aswanthkumarp/offercalculation/assets/122904133/bf8a8618-d6ad-4632-8ba3-a2a6fb9018e7)
 
+![offercalc3](https://github.com/aswanthkumarp/offercalculation/assets/122904133/bcfe40ca-9f29-48e1-acb4-a4582ae81363)
 
 # Getting Started with Create React App
 
