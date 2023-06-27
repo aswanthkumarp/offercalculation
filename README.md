@@ -1,11 +1,10 @@
-![Screenshot from 2023-06-27 16-59-47](https://github.com/aswanthkumarp/offercalculation/assets/122904133/eee3cf61-7498-4f35-a13c-24d126ffd25b)
-![Screenshot from 2023-06-27 16-59-47](https://github.com/aswanthkumarp/offercalculation/assets/122904133/7e08eb0d-0423-45ad-b925-4ddfacc8feaa)
 
 
 
-![Screenshot from 2023-06-27 16-59-47](https://github.com/aswanthkumarp/offercalculation/assets/122904133/fc0f8d64-9f23-4421-9c53-9aaf8d547aa4)
+![Screenshot from 2023-06-27 17-00-07](https://github.com/aswanthkumarp/offercalculation/assets/122904133/2169fcd2-2e0d-47cd-9017-6cd0c3dca95f)
+![Screenshot from 2023-06-27 16-59-47](https://github.com/aswanthkumarp/offercalculation/assets/122904133/3308e026-4b7b-4000-9ab7-fdbd8d970d87)
 
-
+![Screenshot from 2023-06-22 21-43-55](https://github.com/aswanthkumarp/offercalculation/assets/122904133/8b550cdb-43db-42bd-9049-eb029aa23c3f)
 
 # Getting Started with Create React App
 
