@@ -1,6 +1,9 @@
+![Screenshot from 2023-06-27 16-59-47](https://github.com/aswanthkumarp/offercalculation/assets/122904133/eee3cf61-7498-4f35-a13c-24d126ffd25b)
+![Screenshot from 2023-06-27 16-59-47](https://github.com/aswanthkumarp/offercalculation/assets/122904133/7e08eb0d-0423-45ad-b925-4ddfacc8feaa)
 
 
 
+![Screenshot from 2023-06-27 16-59-47](https://github.com/aswanthkumarp/offercalculation/assets/122904133/fc0f8d64-9f23-4421-9c53-9aaf8d547aa4)
 
 
 
